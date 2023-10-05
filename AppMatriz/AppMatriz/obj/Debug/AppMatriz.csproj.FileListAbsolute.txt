@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\obj\Debug\AppMatriz.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\obj\Debug\AppMatriz.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\bin\Debug\AppMatriz.exe.config
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\bin\Debug\AppMatriz.exe
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\bin\Debug\AppMatriz.pdb
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\obj\Debug\AppMatriz.exe
+C:\Users\USUARIO\Documents\Estructura de datos\Clase # 3 Arrays-Matriz\matriz\AppMatriz\AppMatriz\obj\Debug\AppMatriz.pdb
